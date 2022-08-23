@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sameer Gupta
+**Hi There! I'm Sameer 👋**
 - 👀 I’m interested in Machine Learning, CyberSecurity, Finance, Basketball etc.
-- 🌱 I’m currently learning "How to Cope up with Life"
 - 📫 Reach me on Instagram (@sameer_gupta112), LinkedIn (Sameer Gupta), Gmail (guptasameer112@gmail.com)
 
 <!---
