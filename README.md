@@ -1,5 +1,8 @@
 **Hi There! I'm Sameer 👋**
-- 👀 I’m interested in Machine Learning, CyberSecurity, Finance, Basketball etc.
+- Hi, my name is Sameer, and I am a computer science student at IIIT-Delhi. <br>
+    I am passionate about using technology to solve problems and positively impact the world. 
+    In my studies, I have gained a strong foundation in computer science principles and programming languages such as Python, C, Java, etc. 
+    I am always looking for new opportunities to learn and grow as a developer. 
 - 📫 Reach me on Instagram (@sameer_gupta112), LinkedIn (Sameer Gupta), Gmail (guptasameer112@gmail.com)
 
 <!---
